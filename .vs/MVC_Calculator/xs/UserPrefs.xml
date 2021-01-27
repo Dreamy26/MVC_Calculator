@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{968200F0-DA4E-4CFC-A9A8-8D366B54C0E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.MVC__Calculator PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC_Calculator/Views/Home/Calculator.cshtml">
+    <Files>
+      <File FileName="MVC_Calculator/Views/Home/Calculator.cshtml" Line="6" Column="143" />
+      <File FileName="MVC_Calculator/Controllers/HomeController.cs" Line="40" Column="1" />
+      <File FileName="MVC_Calculator/Program.cs" Line="1" Column="1" />
+      <File FileName="MVC_Calculator/Startup.cs" Line="1" Column="1" />
+      <File FileName="MVC_Calculator/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="MVC_Calculator/wwwroot/js/site.js" Line="1" Column="1" />
+      <File FileName="MVC_Calculator/Views/Home/Privacy.cshtml" Line="4" Column="1" />
+      <File FileName="MVC_Calculator/Models/CalculatorViewModel.cs" Line="2" Column="11" />
+      <File FileName="MVC_Calculator/Models/ResultViewModel.cs" Line="7" Column="1" />
+      <File FileName="MVC_Calculator/Views/Home/Result.cshtml" Line="3" Column="29" />
+      <File FileName="MVC_Calculator/Views/Shared/_Layout.cshtml" Line="29" Column="115" />
+      <File FileName="MVC_Calculator/.DS_Store" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC_Calculator" expanded="True">
+            <Node name="MVC_Calculator" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Calculator.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
